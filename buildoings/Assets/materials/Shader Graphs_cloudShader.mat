@@ -13,7 +13,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2000
   stringTagMap:
     MotionVector: User
   disabledShaderPasses:
@@ -25,6 +25,21 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
+    - Vector1_14A041A2: 30
+    - Vector1_2CEE1FDD: 0.15
+    - Vector1_300634DB: 30
+    - Vector1_36A1DD79: 0.02
+    - Vector1_39D90A7: 2
+    - Vector1_3C213816: 1
+    - Vector1_4C1E6C03: -1
+    - Vector1_527A1DB: 20
+    - Vector1_85C55C44: 8
+    - Vector1_941A4FA9: 2051.1
+    - Vector1_9E39C143: 2
+    - Vector1_C05A9544: 0.01
+    - Vector1_CAFCCF94: 100
+    - Vector1_DB0557A: 14.7
+    - Vector1_EFA3ED94: 2
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 0
     - _AlphaSrcBlend: 1
@@ -62,6 +77,10 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
+    - Color_65BC9391: {r: 0.6084906, g: 0.8908367, b: 1, a: 0}
+    - Color_972E7997: {r: 0.25031152, g: 0.5145053, b: 0.7075472, a: 0}
+    - Vector4_937D0EF4: {r: 1, g: 0, b: 0, a: 90}
+    - Vector4_EAA72CF0: {r: 0, g: 1, b: -0.3, a: 2.7}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
